@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+      "uid": "uidoweiropwier",
+      "position": 1,
+      "week_day": 1,
+      "date": "28",
+      "is_today": false,
+      "event": {
+        "uid": "uidkrslfsuoiajskld",
+        "illustration": "https://picsum.photos/300/300",
+        "invitee_avatar": "https://picsum.photos/300/300"
+      }
+    },
+    {
+      "uid": "uidoweiropwier",
+      "position": 2,
+      "week_day": 2,
+      "date": "29",
+      "is_today": true,
+      "event": {
+        "uid": "",
+        "illustration": "",
+        "invitee_avatar": ""
+      }
+    },
+    {
+      "uid": "uidoweiropwier",
+      "position": 3,
+      "week_day": 3,
+      "date": "30",
+      "is_today": false,
+      "event": {
+        "uid": "uidkrslfsuoiajskld",
+        "illustration": "https://picsum.photos/300/300",
+        "invitee_avatar": "https://picsum.photos/300/300"
+      }
+    }
+  ]
+}
