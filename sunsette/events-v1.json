@@ -1,0 +1,64 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "day": 1,
+      "date": "2023-05-29",
+      "isToday": false,
+      "event": {
+        "id": 1,
+        "illustration": "https://picsum.photos/300/300",
+        "invitees": [{ "id": 1, "avatar": "https://picsum.photos/100/100" }]
+      }
+    },
+    { "id": 2, "day": 2, "date": "2023-05-30", "isToday": false },
+    { "id": 3, "day": 3, "date": "2023-05-31", "isToday": true },
+    {
+      "id": 4,
+      "day": 4,
+      "date": "2023-06-01",
+      "isToday": false,
+      "event": { "id": 2, "illustration": "https://picsum.photos/300/300" }
+    },
+    { "id": 5, "day": 5, "date": "2023-06-02", "isToday": false },
+    {
+      "id": 6,
+      "day": 6,
+      "date": "2023-06-03",
+      "isToday": false,
+      "event": {
+        "id": 3,
+        "illustration": "https://picsum.photos/300/300",
+        "invitees": [
+          { "id": 1, "avatar": "https://picsum.photos/100/100" },
+          { "id": 2, "avatar": "https://picsum.photos/100/100" }
+        ]
+      }
+    },
+    { "id": 7, "day": 7, "date": "2023-06-04", "isToday": false },
+    { "id": 8, "day": 1, "date": "2023-06-05", "isToday": false },
+    { "id": 9, "day": 2, "date": "2023-06-06", "isToday": false },
+    { "id": 10, "day": 3, "date": "2023-06-07", "isToday": false },
+    { "id": 11, "day": 4, "date": "2023-06-08", "isToday": false },
+    {
+      "id": 12,
+      "day": 5,
+      "date": "2023-06-09",
+      "isToday": false,
+      "event": {
+        "id": 4,
+        "illustration": "https://picsum.photos/300/300",
+        "invitees": [{ "id": 1, "avatar": "https://picsum.photos/100/100" }]
+      }
+    },
+    { "id": 13, "day": 6, "date": "2023-06-10", "isToday": false },
+    { "id": 14, "day": 7, "date": "2023-06-11", "isToday": false },
+    { "id": 15, "day": 1, "date": "2023-06-12", "isToday": false },
+    { "id": 16, "day": 2, "date": "2023-06-13", "isToday": false },
+    { "id": 17, "day": 3, "date": "2023-06-14", "isToday": false },
+    { "id": 18, "day": 4, "date": "2023-06-15", "isToday": false },
+    { "id": 19, "day": 5, "date": "2023-06-16", "isToday": false },
+    { "id": 20, "day": 6, "date": "2023-06-17", "isToday": false },
+    { "id": 21, "day": 7, "date": "2023-06-18", "isToday": false }
+  ]
+}
