@@ -1,5 +1,7 @@
 {
   "events": [
+    
+    
     {
       "uid": "uidoweiropwier",
       "position": 1,
@@ -14,6 +16,7 @@
         "invitee_avatar": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/sunsette-cl0mug/assets/s3qluqxlkv94/10.png"
       }
     },
+    
     {
       "uid": "uidoweiropwier",
       "position": 2,
@@ -28,6 +31,7 @@
         "invitee_avatar": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/sunsette-cl0mug/assets/joa1ppnvlb53/back_hide.png"
       }
     },
+    
     {
       "uid": "uidoweiropwier",
       "position": 3,
@@ -42,5 +46,7 @@
         "invitee_avatar": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/sunsette-cl0mug/assets/2lqt4akzu9o3/07.png"
       }
     }
+
+    
   ]
 }
