@@ -1,5 +1,5 @@
 {
-  "events"; [
+  "events": [
 
     {
       "uid": "uidoweiropwier",
@@ -303,7 +303,7 @@
         "illustration": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/sunsette-cl0mug/assets/joa1ppnvlb53/back_hide.png",
         "invitee_avatar": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/sunsette-cl0mug/assets/joa1ppnvlb53/back_hide.png"
       }
-    },
+    }
 
   ]
 }
